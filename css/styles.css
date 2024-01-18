@@ -8,6 +8,9 @@ footer {
     color: white;
     text-align: right;
     padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer-content {
@@ -17,7 +20,8 @@ footer {
 
 .footer-image {
     width: 50px;
-    height: auto; }
+    height: auto;
+}
    
 
 
